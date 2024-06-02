@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/src/artifacts
 /.pnp
 .pnp.js
 
